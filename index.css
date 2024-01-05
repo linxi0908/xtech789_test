@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+.container{
+    background: #93d0e8;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.container .result{
+    background: #93e8af;
+}
